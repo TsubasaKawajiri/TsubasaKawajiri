@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TsubasaKawajiri&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+Full "Stuck" Web Developer
+
+| what I can write | what I can use |
+| ---- | ---- |
+| <ul><li>Ruby</li><li>JavaScript</li><li>Go</li><li>Java</li></ul> | <ul><li>Rails</li><li>Docker</li><li>Kubernetes</li><li>Terraform</li><li>Ansible</li><li>CircleCI</li></ul>
