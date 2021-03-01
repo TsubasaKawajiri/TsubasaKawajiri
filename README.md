@@ -21,4 +21,4 @@ Full "Stuck" Web Developer
 
 | what I can write | what I can use |
 | ---- | ---- |
-| <ul><li>Ruby</li><li>JavaScript</li><li>Go</li><li>Java</li></ul> | <ul><li>Rails</li><li>Docker</li><li>Kubernetes</li><li>Terraform</li><li>Ansible</li><li>CircleCI</li></ul>
+| <ul><li>Ruby</li><li>JavaScript</li><li>Go</li><li>Java</li></ul> | <ul><li>Rails</li><li>Docker</li><li>Kubernetes</li><li>Terraform</li><li>Ansible</li><li>CircleCI</li><li>AWS</li></ul>
