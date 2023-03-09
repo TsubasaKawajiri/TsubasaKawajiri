@@ -22,3 +22,5 @@ Full "Stuck" Web Developer
 | what I can write | what I can use |
 | ---- | ---- |
 | <ul><li>Ruby</li><li>JavaScript</li><li>Go</li><li>Java</li></ul> | <ul><li>Rails</li><li>Docker</li><li>Kubernetes</li><li>Terraform</li><li>Ansible</li><li>CircleCI</li><li>AWS</li></ul>
+
+<img src="https://count.getloli.com/get/@tsubasakawajiri?theme=rule34"/>
