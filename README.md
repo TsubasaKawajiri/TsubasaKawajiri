@@ -1,3 +1,5 @@
+![build_failed](https://img.shields.io/badge/build-failed-critical)
+
 ### Hi there 👋
 
 <!--
